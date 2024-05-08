@@ -64,3 +64,9 @@ button {
   font-size: 14px;
   color: hsl(0, 0%, 100%);
 }
+
+button:hover {
+  color: hsl(0, 0%, 12%);
+  background-color: hsl(75, 94%, 57%);
+  cursor: pointer;
+}
